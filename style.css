@@ -403,7 +403,7 @@ footer .line-footer {
 
     /*Menu cabeçalho mobile*/
     .menu nav a {
-    display: flex;
+    display: none;
     }
     /*topo do site  */
    
