@@ -402,8 +402,9 @@ footer .line-footer {
         flex-direction: column;
     }
 
-    .topo-do-site .flex{
-        flex-direction: column-reverse;
+    .menu {
+        display: none;
+
     }
 
 }
