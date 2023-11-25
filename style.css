@@ -407,22 +407,22 @@ footer .line-footer {
     }
     /*topo do site  */
     h1 {
-    font-family: "montserrat";
-    padding: 15px;
-    font-weight: bold;
-    display: flex;
-    justify-content:center;
-    width: 40cm;
-    font-size: 20px;
+        font-family: "montserrat";
+        padding: 10px;
+        font-weight: bold;
+        display: flex;
+        justify-content:center;
+        width: 50cm;
+        font-size: 20px;
     }
    
     .subtitulo { 
-        font-size: 20px;
+        font-size: 30px;
         padding: 10px 5%;
     }
     
     .intro {
-        font-size: 20px;
+        font-size: 30px;
         padding: 10px 5%;
     }
 
