@@ -397,7 +397,7 @@ footer .line-footer {
 
 @media screen and (max-width: 1020px){
     /* CLASSES GERAIS */
-    .flex,h1,p,.intro{
+    .container.flex,.intro{
     flex-direction: column;   
     }
 
@@ -405,4 +405,20 @@ footer .line-footer {
     .menu nav a {
     display: none;
     }
+    /*topo do site  */
+    h1 {
+        font-size: 18px;
+    }
+    .subtitulo { 
+        font-size: 20px;
+        padding: 20px 8%;
+    }
+    
+    .intro {
+        font-size: 15px;
+        padding: 20px 8%;
+       
+    }
+
+
 }
