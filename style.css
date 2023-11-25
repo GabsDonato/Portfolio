@@ -397,7 +397,7 @@ footer .line-footer {
 
 @media screen and (max-width: 1020px){
     /* CLASSES GERAIS */
-    body{
+    .flex{
     flex-direction: column;   
     }
 
