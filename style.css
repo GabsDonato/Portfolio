@@ -406,16 +406,14 @@ footer .line-footer {
     display: none;
     }
     /*topo do site  */
-    h1 {
-        font-size: 18px;
-    }
+   
     .subtitulo { 
-        font-size: 20px;
+        font-size: 10px;
         padding: 20px 8%;
     }
     
     .intro {
-        font-size: 15px;
+        font-size: 10px;
         padding: 20px 8%;
        
     }
