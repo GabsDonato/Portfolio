@@ -394,3 +394,15 @@ footer .line-footer {
     text-decoration: none;
     color: #fff;
 }
+
+@media screen and (max-width: 1020px){
+    /* CLASSES GERAIS */
+    .container{
+      flex-direction: column;   
+    }
+
+    /*Menu cabeçalho mobile*/
+    .menu  {
+    display: none;
+    }
+}
