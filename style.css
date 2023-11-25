@@ -397,15 +397,5 @@ footer .line-footer {
 
 @media screen and (max-width: 1020px){
     /* CLASSES GERAIS */
-    .flex{
-    flex-direction: column;   
-    }
-
-    /*Menu cabeçalho mobile*/
-    .menu nav a {
-    display: none;
-    }
-    /*topo do site  */
-
-
+    
 }
