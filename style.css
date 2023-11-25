@@ -410,9 +410,8 @@ footer .line-footer {
     font-family: "montserrat";
     padding: 10px;
     font-weight: bold;
-    display: flex;
     justify-content:center;
-    width: 50cm;
+    width: 80cm;
     font-size: 10px;
     }
    
