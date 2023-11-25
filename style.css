@@ -402,7 +402,7 @@ footer .line-footer {
     }
 
     /*Menu cabeçalho mobile*/
-    .menu  {
+    .menu nav a {
     display: none;
     }
 }
