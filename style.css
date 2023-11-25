@@ -397,13 +397,13 @@ footer .line-footer {
 
 @media screen and (max-width: 1020px){
     /* CLASSES GERAIS */
-    .container.flex,.intro{
+    .flex,.intro{
     flex-direction: column;   
     }
 
     /*Menu cabeçalho mobile*/
     .menu nav a {
-    display: none;
+    display: flex;
     }
     /*topo do site  */
    
@@ -415,6 +415,7 @@ footer .line-footer {
     .intro {
         font-size: 10px;
         padding: 20px 8%;
+        position: absolute;
        
     }
 
