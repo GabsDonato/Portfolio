@@ -395,11 +395,12 @@ footer .line-footer {
     color: #fff;
 }
 
-@media screen and (max-width: 1020px) {
+@media screen and (max-width: 768px) {
 
     /* CLASSES GERAIS */
-    .flex {
+    .container {
         flex-direction: column;
+        width: 100%;
     }
 
     .menu {
