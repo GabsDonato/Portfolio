@@ -393,18 +393,3 @@ footer .line-footer {
     text-decoration: none;
     color: #fff;
 }
-
-@media screen and (max-width: 768px) {
-
-    /* CLASSES GERAIS */
-    .container {
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .menu {
-        display: none;
-
-    }
-
-}
