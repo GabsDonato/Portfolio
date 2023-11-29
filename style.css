@@ -22,7 +22,8 @@ body {
     max-width: 1920px;
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
 }
 
 .interface {
@@ -32,7 +33,10 @@ body {
 
 
 /*menu estilo*/
-
+header{
+    background-color: black;
+    width: 100%;
+}
 
 
 html{
