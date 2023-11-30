@@ -41,8 +41,19 @@ header{
 .logo{
     width: 10%;
 }
+.logo img{
+    width: 150px;
+}
 .menu {
     width: 50%;
+}
+
+.menu nav a {
+    color: white;
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 18px;
+    font-family: 'Montserrat';
 }
 
 
