@@ -145,6 +145,7 @@ section.sobre .flex {
     border-radius: 25px;
     border: none;
     background-color:#b462e7;
+    color: #fff;
     font-size: 22px;
     cursor: pointer;
     margin: 20px 5px ;
