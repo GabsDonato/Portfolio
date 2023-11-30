@@ -61,11 +61,11 @@ header{
     content: " ";
     width: 100px;
     height: 4px;
-    background-image: linear-gradientt(45deg,white,rgb(255, 255, 255));
+    background-image: linear-gradient(45deg,white,rgb(255, 255, 255));
     position: absolute;
     top: 100px;
     left: 0px;
-    transition: width 0.5s;
+    transition:width 0.5s;
 }
 
 .menu nav a:hover::after{
